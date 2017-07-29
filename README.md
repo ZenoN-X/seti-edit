@@ -7,3 +7,7 @@
 + CSS dosyası küçük resmi değiştirildi.
 + İNO dosyası küçük resimi eklendi.
 + HEX dosyası için ikinci küçük resim eklendi.
+
+# SCREENSHOTS
+
+![yenilikler](v1.1.png)
